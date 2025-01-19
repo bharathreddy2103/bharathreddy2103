@@ -1,61 +1,69 @@
-# 👋 Hi there! I'm Bharath Kumar Reddy  
+# 👋 Hi, I'm Bharath Kumar Reddy  
 
-🚀 **Senior DevOps & DataOps Engineer** | **MLOps & AiOps Enthusiast**
+🚀 **Senior DevOps & DataOps Engineer** | **MLOps & AIOps Enthusiast**  
 
-I'm passionate about automating infrastructure, building scalable CI/CD pipelines, and solving real-world problems using DevOps and Cloud technologies.  
-I actively contribute to open source, share knowledge through blogs, and explore emerging fields like MLOps and Solutions Architecture.  
-
-## 💡 **What I Do**  
-- **DevOps**: Automating infrastructure using Terraform, Ansible, and Helm.  
-- **CI/CD**: Designing pipelines with GitHub Actions, Jenkins, and GitLab CI/CD.  
-- **Cloud**: Managing workloads on AWS and Azure.  
-- **Kubernetes**: Deploying and managing scalable applications on EKS/AKS.  
-- **Scripting**: Developing automation scripts using Python and Bash.
-
-## 🌟 **GitHub Highlights**  
-### **Featured Repositories**  
-- https://github.com/bharathreddy2103/devops-roadmap-2025
-- https://github.com/bharathreddy2103/DevOps-Interview-Questions-Answers
-- https://github.com/bharathreddy2103/Terraform 
-
-### **Contributions**  
-- Contributor to open-source projects related to DevOps and Cloud.  
-- Actively building tools and resources to simplify DevOps workflows.  
+Welcome to my GitHub profile! I specialize in designing, automating, and scaling infrastructure and CI/CD pipelines for modern cloud-native applications. My passion lies in contributing to open-source projects and sharing knowledge to empower the DevOps community.
 
 ---
 
-## 🛠️ **Skills & Tools**  
-| **Category**       | **Technologies**                                                                 |
-|--------------------|---------------------------------------------------------------------------------|
-| **DevOps Tools**   | Docker, Kubernetes, Helm, Terraform, Ansible, Jenkins, GitLab CI/CD, GitHub Actions           |
-| **Cloud Platforms**| AWS, Azure                                                                     |
-| **Programming**    | Python, Bash                                                                   |
-| **Monitoring**     | Prometheus, Grafana, ELK/EFK Stack, Jaeger                                                 |
+## 💡 **About Me**  
+- 🌟 **DevOps Expertise**: Streamlining workflows with tools like Jenkins, GitLab CI/CD, and GitHub Actions.  
+- 🛠️ **Infrastructure as Code**: Proficient in Terraform, Ansible, and GitOps tools like Argo CD.  
+- 🚀 **Containerization & Orchestration**: Extensive experience with Docker and Kubernetes.  
+- 🐧 **Linux & Scripting**: Skilled in Linux system administration, Bash scripting, and Python automation.  
+- 🌐 **Cloud Platforms**: Hands-on experience with AWS and Azure services.  
+- 💡 **AIOps & MLOps Enthusiast**: Exploring the intersection of AI, machine learning, and operations.  
+
+---
+
+## 🌟 **What You'll Find Here**  
+### **Featured Repositories**  
+- https://github.com/bharathreddy2103/devops-roadmap-2025
+- https://github.com/bharathreddy2103/DevOps-Interview-Questions-Answers 
+- https://github.com/bharathreddy2103/Terraform 
+
+### **Learning Resources**  
+- **DevOps Cheatsheets**: Quick references for Terraform, Docker, Kubernetes, and Git.  
+- **Automation Scripts**: Python and Bash scripts for automating repetitive tasks.  
+
+---
+
+## 🛠️ **Technical Skills**  
+| **Category**           | **Technologies**                                                                  |
+|-------------------------|-----------------------------------------------------------------------------------|
+| **DevOps Tools**        | Jenkins, GitLab CI/CD, GitHub Actions, Argo CD, Chef, Ansible                    |
+| **Cloud Platforms**     | AWS, Azure                                                                       |
+| **Containerization**    | Docker, Kubernetes                                                               |
+| **IaC & GitOps**        | Terraform, Argo CD                                                               |
+| **Scripting**           | Bash, Python                                                                     |
+| **Monitoring**          | Prometheus, Grafana, ELK/EFK Stack, Jaeger                                                  |
+| **Version Control**     | Git, GitHub, GitLab                                                                      |
+| **Operating Systems**   | Linux (Ubuntu, Oracle Linux, RHEL), Windows                                               |
+
+---
+
+## 🤝 **Open Source Contributions**  
+I'm eager to collaborate on open-source projects in:  
+- DevOps automation and Infrastructure as Code.  
+- Building reusable CI/CD pipelines and Helm charts.  
+- MLOps and AIOps tools and frameworks.  
+
+If you're working on an exciting project, feel free to reach out for collaboration!
 
 ---
 
 ## 📚 **Learning & Growth**  
-🌱 Currently diving into **MLOps** and **AiOps**.  
-📖 Writing technical blogs on [Medium](https://medium.com/@nbkumar2103).  
-💡 Sharing knowledge and engaging with the DevOps community on **LinkedIn** (https://www.linkedin.com/in/bharath-kumar-reddy2103/).  
-
----
-
-## 🤝 **Let’s Collaborate**  
-I'm always open to collaborating on:  
-- Open-source projects in DevOps, Cloud, and Automation.  
-- Building reusable Terraform modules or Helm charts.  
-- Writing DevOps tutorials or creating engaging content.  
-
-📫 Reach out to me:(mail to: nbkumar2103@gmail.com)  
+🌱 Currently exploring **MLOps**, **AIOps**, and **Advanced Cloud Architectures**.  
+📖 Sharing my journey through blogs and tutorials on [Medium](https://medium.com/@nbkumar2103).  
+💡 Actively engaging with the DevOps community on [LinkedIn](https://www.linkedin.com/in/bharath-kumar-reddy2103/).  
 
 ---
 
 ## 🔥 **Let’s Connect**  
-**LinkedIn** https://www.linkedin.com/in/bharath-kumar-reddy2103/
-**Medium**  https://medium.com/@nbkumar2103
-**GitHub** https://github.com/bharathreddy2103
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath--Kumar--Reddy-blue?logo=linkedin)](https://www.linkedin.com/in/bharathkumarreddy/)  
+[![Medium](https://img.shields.io/badge/Medium-Bharath--Kumar--Reddy-black?logo=medium)](https://medium.com/@bharathkumarreddy)  
+[![GitHub](https://img.shields.io/github/followers/bharathkumarreddy?label=Follow&style=social)](https://github.com/bharathkumarreddy)  
 
 ---
 
-⭐ **If you find my work helpful, please consider starring my repositories**
+⭐ **If you find my work helpful, please consider starring my repositories and following my profile!**
