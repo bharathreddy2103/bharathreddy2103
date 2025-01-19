@@ -14,12 +14,9 @@ I actively contribute to open source, share knowledge through blogs, and explore
 
 ## 🌟 **GitHub Highlights**  
 ### **Featured Repositories**  
-- [**Terraform Templates for AWS**](#)  
-  Reusable Terraform modules for AWS VPC, EC2, and S3 automation.  
-- [**Kubernetes Helm Charts**](#)  
-  Helm charts for deploying real-world applications.  
-- [**GitLab CI/CD for Python Projects**](#)  
-  End-to-end CI/CD pipelines with linting, testing, and deployment.  
+- https://github.com/bharathreddy2103/devops-roadmap-2025
+- https://github.com/bharathreddy2103/DevOps-Interview-Questions-Answers
+- https://github.com/bharathreddy2103/Terraform 
 
 ### **Contributions**  
 - Contributor to open-source projects related to DevOps and Cloud.  
@@ -50,7 +47,7 @@ I'm always open to collaborating on:
 - Building reusable Terraform modules or Helm charts.  
 - Writing DevOps tutorials or creating engaging content.  
 
-📫 Reach out to me:(mailto:nbkumar2103@gmail.com)  
+📫 Reach out to me:(mail to: nbkumar2103@gmail.com)  
 
 ---
 
@@ -61,4 +58,4 @@ I'm always open to collaborating on:
 
 ---
 
-⭐ **If you find my work helpful, please consider starring my repositories!**
+⭐ **If you find my work helpful, please consider starring my repositories**
