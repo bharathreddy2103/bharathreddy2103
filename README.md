@@ -66,4 +66,4 @@ If you're working on an exciting project, feel free to reach out for collaborati
 
 ---
 
-⭐ **If you find my work helpful, please consider starring my repositories and following my profile!**
+⭐ **If you find my work helpful, please consider starring my repositories and following my profile**
