@@ -38,7 +38,7 @@ Welcome to my GitHub profile. I specialize in designing, automating, and scaling
 | **Scripting**           | Bash, Python                                                                     |
 | **Monitoring**          | Prometheus, Grafana, ELK/EFK Stack, Jaeger                                                  |
 | **Version Control**     | Git, GitHub, GitLab                                                                      |
-| **Operating Systems**   | Linux (Ubuntu, Oracle Linux, RHEL), Windows                                               |
+| **Operating Systems**   | Linux (Ubuntu, Amazon Linux, RHEL), Windows                                               |
 
 ---
 
