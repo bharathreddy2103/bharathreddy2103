@@ -60,9 +60,9 @@ If you're working on an exciting project, feel free to reach out for collaborati
 ---
 
 ## 🔥 **Let’s Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath--Kumar--Reddy-blue?logo=linkedin)](https://www.linkedin.com/in/bharathkumarreddy/)  
-[![Medium](https://img.shields.io/badge/Medium-Bharath--Kumar--Reddy-black?logo=medium)](https://medium.com/@bharathkumarreddy)  
-[![GitHub](https://img.shields.io/github/followers/bharathkumarreddy?label=Follow&style=social)](https://github.com/bharathkumarreddy)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath--Kumar--Reddy-blue?logo=linkedin)](https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
+[![Medium](https://img.shields.io/badge/Medium-Bharath--Kumar--Reddy-black?logo=medium)](https://medium.com/@nbkumar2103)  
+[![GitHub](https://img.shields.io/github/followers/bharathkumarreddy?label=Follow&style=social)](https://github.com/bharathreddy2103)  
 
 ---
 
