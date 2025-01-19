@@ -40,7 +40,7 @@ I actively contribute to open source, share knowledge through blogs, and explore
 ## 📚 **Learning & Growth**  
 🌱 Currently diving into **MLOps** and **AiOps**.  
 📖 Writing technical blogs on [Medium](https://medium.com/@nbkumar2103).  
-💡 Sharing knowledge and engaging with the DevOps community on [LinkedIn](www.linkedin.com/in/bharath-kumar-reddy2103).  
+💡 Sharing knowledge and engaging with the DevOps community on **LinkedIn** (https://www.linkedin.com/in/bharath-kumar-reddy2103/).  
 
 ---
 
@@ -50,7 +50,7 @@ I'm always open to collaborating on:
 - Building reusable Terraform modules or Helm charts.  
 - Writing DevOps tutorials or creating engaging content.  
 
-📫 Reach out to me: [bharath.devops@example.com](mailto:bharath.devops@example.com)  
+📫 Reach out to me:(mailto:nbkumar2103@gmail.com)  
 
 ---
 
