@@ -2,7 +2,7 @@
 
 🚀 **Senior DevOps & DataOps Engineer** | **MLOps & AIOps Enthusiast**  
 
-Welcome to my GitHub profile! I specialize in designing, automating, and scaling infrastructure and CI/CD pipelines for modern cloud-native applications. My passion lies in contributing to open-source projects and sharing knowledge to empower the DevOps community.
+Welcome to my GitHub profile. I specialize in designing, automating, and scaling infrastructure and CI/CD pipelines for modern cloud-native applications. My passion lies in contributing to open-source projects and sharing knowledge to empower the DevOps community.
 
 ---
 
