@@ -1,37 +1,64 @@
-<h1 align="center">Hi 👋, I'm Bharath Kumar Reddy</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+# 👋 Hi there! I'm Bharath Kumar Reddy  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathreddy2103&label=Profile%20views&color=0e75b6&style=flat" alt="bharathreddy2103" /> </p>
+🚀 **Senior DevOps & DataOps Engineer** | AWS Certified | Kubernetes Enthusiast  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharathreddy2103" alt="bharathreddy2103" /></a> </p>
+I'm passionate about automating infrastructure, building scalable CI/CD pipelines, and solving real-world problems using DevOps and Cloud technologies.  
+I actively contribute to open source, share knowledge through blogs, and explore emerging fields like MLOps and Solutions Architecture.  
 
-- 🌱 I’m currently learning **MLOps and AiOps**
+## 💡 **What I Do**  
+- **DevOps**: Automating infrastructure using Terraform, Ansible, and Helm.  
+- **CI/CD**: Designing pipelines with GitHub Actions, Jenkins, and GitLab CI/CD.  
+- **Cloud**: Managing workloads on AWS and Azure.  
+- **Kubernetes**: Deploying and managing scalable applications on EKS/AKS.  
+- **Scripting**: Developing automation scripts using Python and Bash.
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
+## 🌟 **GitHub Highlights**  
+### **Featured Repositories**  
+- [**Terraform Templates for AWS**](#)  
+  Reusable Terraform modules for AWS VPC, EC2, and S3 automation.  
+- [**Kubernetes Helm Charts**](#)  
+  Helm charts for deploying real-world applications.  
+- [**GitLab CI/CD for Python Projects**](#)  
+  End-to-end CI/CD pipelines with linting, testing, and deployment.  
 
-- 🤝 I’m looking for help with **DevOps**
+### **Contributions**  
+- Contributor to open-source projects related to DevOps and Cloud.  
+- Actively building tools and resources to simplify DevOps workflows.  
 
-- 📝 I regularly write articles on [https://medium.com/@nbkumar2103](https://medium.com/@nbkumar2103)
+---
 
-- 💬 Ask me about **DevOps**
+## 🛠️ **Skills & Tools**  
+| **Category**       | **Technologies**                                                                 |
+|--------------------|---------------------------------------------------------------------------------|
+| **DevOps Tools**   | Docker, Kubernetes, Helm, Terraform, Ansible, Jenkins, GitLab CI/CD, GitHub Actions           |
+| **Cloud Platforms**| AWS, Azure                                                                     |
+| **Programming**    | Python, Bash                                                                   |
+| **Monitoring**     | Prometheus, Grafana, ELK/EFK Stack, Jaeger                                                 |
 
-- 📫 How to reach me **nbkumar2103@gmail.com**
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 📚 **Learning & Growth**  
+🌱 Currently diving into **MLOps** and **AiOps**.  
+📖 Writing technical blogs on [Medium](https://medium.com/@nbkumar2103).  
+💡 Sharing knowledge and engaging with the DevOps community on [LinkedIn](www.linkedin.com/in/bharath-kumar-reddy2103).  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/bharath-kumar-reddy2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/bharath-kumar-reddy2103" height="30" width="40" /></a>
-<a href="https://medium.com/@nbkumar2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nbkumar2103" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🤝 **Let’s Collaborate**  
+I'm always open to collaborating on:  
+- Open-source projects in DevOps, Cloud, and Automation.  
+- Building reusable Terraform modules or Helm charts.  
+- Writing DevOps tutorials or creating engaging content.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharathreddy2103&show_icons=true&locale=en&layout=compact" alt="bharathreddy2103" /></p>
+📫 Reach out to me: [bharath.devops@example.com](mailto:bharath.devops@example.com)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathreddy2103&show_icons=true&locale=en" alt="bharathreddy2103" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharathreddy2103&" alt="bharathreddy2103" /></p>
+## 🔥 **Let’s Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath--Kumar--Reddy-blue?logo=linkedin)](https://www.linkedin.com/in/bharathkumarreddy/)  
+[![Medium](https://img.shields.io/badge/Medium-Bharath--Kumar--Reddy-black?logo=medium)](https://medium.com/@bharathkumarreddy)  
+[![GitHub](https://img.shields.io/github/followers/bharathkumarreddy?label=Follow&style=social)](https://github.com/bharathkumarreddy)  
+
+---
+
+⭐ **If you find my work helpful, please consider starring my repositories!**
