@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Bharath Kumar Reddy  
 
-🚀 **Senior DevOps & DataOps Engineer** | AWS Certified | Kubernetes Enthusiast  
+🚀 **Senior DevOps & DataOps Engineer** | **MLOps & AiOps Enthusiast**
 
 I'm passionate about automating infrastructure, building scalable CI/CD pipelines, and solving real-world problems using DevOps and Cloud technologies.  
 I actively contribute to open source, share knowledge through blogs, and explore emerging fields like MLOps and Solutions Architecture.  
