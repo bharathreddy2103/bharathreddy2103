@@ -48,7 +48,7 @@ I'm eager to collaborate on open-source projects in:
 - Building reusable CI/CD pipelines and Helm charts.  
 - MLOps and AIOps tools and frameworks.  
 
-If you're working on an exciting project, feel free to reach out for collaboration!
+If you're working on an exciting project, feel free to reach out for collaboration.
 
 ---
 
