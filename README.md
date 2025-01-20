@@ -20,7 +20,8 @@ Welcome to my GitHub profile. I specialize in designing, automating, and scaling
 ### **Featured Repositories**  
 - https://github.com/bharathreddy2103/devops-roadmap-2025
 - https://github.com/bharathreddy2103/DevOps-Interview-Questions-Answers 
-- https://github.com/bharathreddy2103/Terraform 
+- https://github.com/bharathreddy2103/Terraform
+- https://github.com/bharathreddy2103/Azure-Zero-To-Hero.git
 
 ### **Learning Resources**  
 - **DevOps Cheatsheets**: Quick references for Terraform, Docker, Kubernetes, and Git.  
