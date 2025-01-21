@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/bharathreddy2103&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=bharathreddy2103&color=blue)
 
 # 👋 Hi, I'm Bharath Kumar Reddy  
 
