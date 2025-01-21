@@ -70,3 +70,7 @@ If you're working on an exciting project, feel free to reach out for collaborati
 ---
 
 ⭐ **If you find my work helpful, please consider starring my repositories and following my profile**
+
+## GitHub Stats
+![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharathKumarReddy2103&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathKumarReddy2103&layout=compact&theme=radical)
