@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/bharathreddy2103&color=blue)
+
 # 👋 Hi, I'm Bharath Kumar Reddy  
 
 🚀 **Senior DevOps & DataOps Engineer** | **MLOps & AIOps Enthusiast**  
