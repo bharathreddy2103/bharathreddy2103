@@ -56,7 +56,7 @@ If you're working on an exciting project, feel free to reach out for collaborati
 ---
 
 ## 📚 **Learning & Growth**  
-🌱 Currently exploring **MLOps**, **AIOps**, and **Advanced Cloud Architectures**.  
+🌱 Currently exploring **MLOps**, **AIOps**.  
 📖 Sharing my journey through blogs and tutorials on [Medium](https://medium.com/@nbkumar2103).  
 💡 Actively engaging with the DevOps community on [LinkedIn](https://www.linkedin.com/in/bharath-kumar-reddy2103/).  
 
