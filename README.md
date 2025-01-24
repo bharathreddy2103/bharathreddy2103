@@ -5,7 +5,6 @@
 🚀 **Senior DevOps & DataOps Engineer** | **MLOps & AIOps Enthusiast**  
 
 Welcome to my GitHub profile. I specialize in designing, automating, and scaling infrastructure and CI/CD pipelines for modern cloud-native applications. My passion lies in 
-
 contributing to open-source projects and sharing knowledge to empower the DevOps community.
 
 ---
@@ -13,15 +12,15 @@ contributing to open-source projects and sharing knowledge to empower the DevOps
 ## 💡 **About Me**  
 
 - 🌟 **DevOps Expertise**: Streamlining workflows with tools like Jenkins, GitLab CI/CD, and GitHub Actions.
--  
+  
 - 🛠️ **Infrastructure as Code**: Proficient in Terraform, Ansible, and GitOps tools like Argo CD.
-- 
+
 - 🚀 **Containerization & Orchestration**: Extensive experience with Docker and Kubernetes.
-- 
+
 - 🐧 **Linux & Scripting**: Skilled in Linux system administration, Bash scripting, and Python automation.
-- 
+
 - 🌐 **Cloud Platforms**: Hands-on experience with AWS and Azure services.
-- 
+
 - 💡 **AIOps & MLOps Enthusiast**: Exploring the intersection of AI, machine learning, and operations.  
 
 ---
@@ -31,17 +30,17 @@ contributing to open-source projects and sharing knowledge to empower the DevOps
 ### **Featured Repositories**  
 
 - https://github.com/bharathreddy2103/devops-roadmap-2025
-- 
+
 - https://github.com/bharathreddy2103/DevOps-Interview-Questions-Answers
-- 
+
 - https://github.com/bharathreddy2103/Terraform
-- 
+
 - https://github.com/bharathreddy2103/Azure-Zero-To-Hero.git
 
 ### **Learning Resources**  
 
 - **DevOps**: Notes for Terraform, Docker, Kubernetes, Git, Linux, Jenkins, GitLab CI/CD, Ansible, AWS, Azure.
-- 
+
 - **Automation Scripts**: Python and Bash scripts for automating repetitive tasks.  
 
 ---
@@ -66,9 +65,9 @@ contributing to open-source projects and sharing knowledge to empower the DevOps
 I'm eager to collaborate on open-source projects in:  
 
 - DevOps automation and Infrastructure as Code.
--  
+  
 - Building reusable CI/CD pipelines and Helm charts.
--  
+  
 - MLOps and AIOps tools and frameworks.  
 
 If you're working on an exciting project, feel free to reach out for collaboration.
