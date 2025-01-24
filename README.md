@@ -26,7 +26,7 @@ Welcome to my GitHub profile. I specialize in designing, automating, and scaling
 - https://github.com/bharathreddy2103/Azure-Zero-To-Hero.git
 
 ### **Learning Resources**  
-- **DevOps Cheatsheets**: Quick references for Terraform, Docker, Kubernetes,Git, Linux, Jenkins, GitLab CI/CD, Ansible, AWS, Azure.
+- **DevOps**: Quick references for Terraform, Docker, Kubernetes, Git, Linux, Jenkins, GitLab CI/CD, Ansible, AWS, Azure.
 - **Automation Scripts**: Python and Bash scripts for automating repetitive tasks.  
 
 ---
