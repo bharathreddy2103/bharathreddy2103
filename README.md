@@ -65,7 +65,7 @@ If you're working on an exciting project, feel free to reach out for collaborati
 ## 🔥 **Let’s Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath--Kumar--Reddy-blue?logo=linkedin)](https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
 [![Medium](https://img.shields.io/badge/Medium-Bharath--Kumar--Reddy-black?logo=medium)](https://medium.com/@nbkumar2103)
-[Email](mailto:nbkumar2103@gmail.com)
+**Email:** nbkumar2103@gmail.com
 
 ---
 
