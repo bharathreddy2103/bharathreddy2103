@@ -4,34 +4,50 @@
 
 🚀 **Senior DevOps & DataOps Engineer** | **MLOps & AIOps Enthusiast**  
 
-Welcome to my GitHub profile. I specialize in designing, automating, and scaling infrastructure and CI/CD pipelines for modern cloud-native applications. My passion lies in contributing to open-source projects and sharing knowledge to empower the DevOps community.
+Welcome to my GitHub profile. I specialize in designing, automating, and scaling infrastructure and CI/CD pipelines for modern cloud-native applications. My passion lies in 
+
+contributing to open-source projects and sharing knowledge to empower the DevOps community.
 
 ---
 
 ## 💡 **About Me**  
-- 🌟 **DevOps Expertise**: Streamlining workflows with tools like Jenkins, GitLab CI/CD, and GitHub Actions.  
-- 🛠️ **Infrastructure as Code**: Proficient in Terraform, Ansible, and GitOps tools like Argo CD.  
-- 🚀 **Containerization & Orchestration**: Extensive experience with Docker and Kubernetes.  
-- 🐧 **Linux & Scripting**: Skilled in Linux system administration, Bash scripting, and Python automation.  
-- 🌐 **Cloud Platforms**: Hands-on experience with AWS and Azure services.  
+
+- 🌟 **DevOps Expertise**: Streamlining workflows with tools like Jenkins, GitLab CI/CD, and GitHub Actions.
+-  
+- 🛠️ **Infrastructure as Code**: Proficient in Terraform, Ansible, and GitOps tools like Argo CD.
+- 
+- 🚀 **Containerization & Orchestration**: Extensive experience with Docker and Kubernetes.
+- 
+- 🐧 **Linux & Scripting**: Skilled in Linux system administration, Bash scripting, and Python automation.
+- 
+- 🌐 **Cloud Platforms**: Hands-on experience with AWS and Azure services.
+- 
 - 💡 **AIOps & MLOps Enthusiast**: Exploring the intersection of AI, machine learning, and operations.  
 
 ---
 
 ## 🌟 **What You'll Find Here**  
+
 ### **Featured Repositories**  
+
 - https://github.com/bharathreddy2103/devops-roadmap-2025
-- https://github.com/bharathreddy2103/DevOps-Interview-Questions-Answers 
+- 
+- https://github.com/bharathreddy2103/DevOps-Interview-Questions-Answers
+- 
 - https://github.com/bharathreddy2103/Terraform
+- 
 - https://github.com/bharathreddy2103/Azure-Zero-To-Hero.git
 
 ### **Learning Resources**  
+
 - **DevOps**: Notes for Terraform, Docker, Kubernetes, Git, Linux, Jenkins, GitLab CI/CD, Ansible, AWS, Azure.
+- 
 - **Automation Scripts**: Python and Bash scripts for automating repetitive tasks.  
 
 ---
 
 ## 🛠️ **Technical Skills**  
+
 | **Category**           | **Technologies**                                                                  |
 |-------------------------|-----------------------------------------------------------------------------------|
 | **DevOps Tools**        | Jenkins, GitLab CI/CD, GitHub Actions, Argo CD, Chef, Ansible                    |
@@ -46,9 +62,13 @@ Welcome to my GitHub profile. I specialize in designing, automating, and scaling
 ---
 
 ## 🤝 **Open Source Contributions**  
+
 I'm eager to collaborate on open-source projects in:  
-- DevOps automation and Infrastructure as Code.  
-- Building reusable CI/CD pipelines and Helm charts.  
+
+- DevOps automation and Infrastructure as Code.
+-  
+- Building reusable CI/CD pipelines and Helm charts.
+-  
 - MLOps and AIOps tools and frameworks.  
 
 If you're working on an exciting project, feel free to reach out for collaboration.
@@ -56,14 +76,19 @@ If you're working on an exciting project, feel free to reach out for collaborati
 ---
 
 ## 📚 **Learning & Growth**  
+
 🌱 Currently exploring **MLOps**, **AIOps**.  
+
 📖 Sharing my journey through blogs and tutorials on [Medium](https://medium.com/@nbkumar2103).  
+
 💡 Actively engaging with the DevOps community on [LinkedIn](https://www.linkedin.com/in/bharath-kumar-reddy2103/).  
 
 ---
 
 ## 🔥 **Let’s Connect**  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath--Kumar--Reddy-blue?logo=linkedin)](https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
+
 [![Medium](https://img.shields.io/badge/Medium-Bharath--Kumar--Reddy-black?logo=medium)](https://medium.com/@nbkumar2103)
 
 **Email:** nbkumar2103@gmail.com
@@ -73,5 +98,6 @@ If you're working on an exciting project, feel free to reach out for collaborati
 ⭐ **If you find my work helpful, please consider starring my repositories and following my profile**
 
 ## GitHub Stats
+
 ![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharathKumarReddy2103&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BharathKumarReddy2103&layout=compact&theme=default)
