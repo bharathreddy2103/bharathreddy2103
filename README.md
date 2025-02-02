@@ -62,6 +62,8 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 
 - 🔹 [Docker Repository](https://github.com/BharathKumarReddy2103/Docker)
 
+- 🔹 [CICD Repository](https://github.com/BharathKumarReddy2103/CI-CD)
+
 -  🔹 [Ansible Repository](https://github.com/BharathKumarReddy2103/Ansible)
 
 -  🔹 [Git Repository](https://github.com/BharathKumarReddy2103/Git-for-DevOps)
