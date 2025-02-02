@@ -108,6 +108,8 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 
 ⭐ **If you find my work helpful, please consider starring my repositories and following my profile** and let's innovate together 🎯  
 
+---
+
 ## GitHub Stats
 
 ![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BharathKumarReddy2103&show_icons=true&theme=default)
