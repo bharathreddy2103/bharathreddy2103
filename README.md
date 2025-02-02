@@ -64,6 +64,10 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 
 -  🔹 [Ansible Repository](https://github.com/BharathKumarReddy2103/Ansible)
 
+-  🔹 [Git Repository](https://github.com/BharathKumarReddy2103/Git-for-DevOps)
+
+-  🔹 [Linux Repository](https://github.com/BharathKumarReddy2103/Linux-For-DevOps)
+
 📌 **Scripting & Automation**  
 
 - 🔹 [Shell Scripting Repository](https://github.com/BharathKumarReddy2103/Shell-Scripting-For-DevOps) 🖥️
