@@ -71,7 +71,7 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 
 ---
 
-## 📢 **Let's Connect!**  
+## 📢 **Let's Connect**  
 
 💼 **Open to:** DevOps, DataOps, and Cloud Engineering opportunities worldwide  
 💡 **Looking for:** Open Source Collaborations, Networking, and Knowledge Sharing  
