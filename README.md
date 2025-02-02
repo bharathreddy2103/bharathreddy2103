@@ -76,7 +76,7 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
   
 - 🔹 [Python for DevOps Repository](https://github.com/BharathKumarReddy2103/Python-for-DevOps) 🐍  
 
-💡 **I welcome collaborations** If you're interested in **DevOps, Cloud, or MLOps**, let's build something amazing together!  
+💡 **I welcome collaborations** If you're interested in **DevOps, Cloud, or MLOps**, let's build something amazing together. 
 
 ---
 
