@@ -20,7 +20,7 @@
 
 🔹 **Containerization & Orchestration:** Docker 🐳 | Kubernetes ☸️ | ArgoCD 🔄  
 
-🔹 **Configuration Management:** Ansible ⚡  
+🔹 **Configuration Management:** Ansible ⚡ | Chef
 
 🔹 **Infrastructure as Code (IaC):** Terraform 🌍  
 
