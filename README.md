@@ -54,10 +54,10 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 
 📌 **Scripting & Automation**  
 
-- 🔹 [Shell Scripting Repository](https://github.com/your-github-username/Shell-Scripting) 🖥️  
-- 🔹 [Python for DevOps Repository](https://github.com/your-github-username/Python-For-DevOps) 🐍  
+- 🔹 [Shell Scripting Repository](https://github.com/BharathKumarReddy2103/Shell-Scripting-For-DevOps) 🖥️  
+- 🔹 [Python for DevOps Repository](https://github.com/BharathKumarReddy2103/Python-for-DevOps) 🐍  
 
-💡 **I welcome collaborations!** If you're interested in **DevOps, Cloud, or MLOps**, let's build something amazing together!  
+💡 **I welcome collaborations** If you're interested in **DevOps, Cloud, or MLOps**, let's build something amazing together!  
 
 ---
 
