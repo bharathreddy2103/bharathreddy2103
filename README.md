@@ -78,9 +78,9 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 
 📩 **Reach out to me:**  
 
-- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://img.shields.io/badge/LinkedIn-Bharath--Kumar--Reddy-blue?logo=linkedin)](https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
-- 💻 **GitHub:** [github.com/your-github-username](https://github.com/BharathKumarReddy2103)  
-- 📝 **Medium Blog:** [medium.com/@your-profile](https://img.shields.io/badge/Medium-Bharath--Kumar--Reddy-black?logo=medium)](https://medium.com/@nbkumar2103)  
+- 🔗 **LinkedIn:** (https://img.shields.io/badge/LinkedIn-Bharath--Kumar--Reddy-blue?logo=linkedin)](https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
+- 💻 **GitHub:** (https://github.com/BharathKumarReddy2103)  
+- 📝 **Medium Blog:** (https://img.shields.io/badge/Medium-Bharath--Kumar--Reddy-black?logo=medium)](https://medium.com/@nbkumar2103)  
 
 🚀 **Follow me on GitHub** and let's innovate together! 🎯  
 
