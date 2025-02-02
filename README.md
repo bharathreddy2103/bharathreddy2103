@@ -5,7 +5,9 @@
 🚀 **Bridging DevOps & DataOps with Cloud, Automation & Observability**  
 
 🔹 Passionate about **DevOps, Cloud, and Open Source Contributions**  
+
 🔹 Exploring **MLOps & AIOps** to drive the future of intelligent automation  
+
 🔹 Sharing knowledge through **GitHub, LinkedIn, and Technical Blogs**  
 
 ---
@@ -15,9 +17,13 @@
 ### ⚙️ **DevOps & Automation**  
 
 🔹 **CI/CD:** Jenkins 🛠️ | GitLab CI/CD 🏗️ | GitHub Actions 🚀  
+
 🔹 **Containerization & Orchestration:** Docker 🐳 | Kubernetes ☸️ | ArgoCD 🔄  
+
 🔹 **Configuration Management:** Ansible ⚡  
+
 🔹 **Infrastructure as Code (IaC):** Terraform 🌍  
+
 🔹 **Scripting & Automation:** Bash 🖥️ | Python 🐍  
 
 ### ☁️ **Cloud & Infrastructure** 
@@ -48,13 +54,16 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 
 📌 **DevOps & Cloud**  
 
-- 🔹 [Terraform Repository](https://github.com/bharathreddy2103/Terraform) 🌍  
-- 🔹 [Kubernetes Repository](https://github.com/BharathKumarReddy2103/Kubernetes) ☸️  
+- 🔹 [Terraform Repository](https://github.com/bharathreddy2103/Terraform) 🌍
+  
+- 🔹 [Kubernetes Repository](https://github.com/BharathKumarReddy2103/Kubernetes) ☸️
+   
 - 🔹 [Azure Repository](https://github.com/BharathKumarReddy2103/Azure-Zero-To-Hero) 🚀  
 
 📌 **Scripting & Automation**  
 
-- 🔹 [Shell Scripting Repository](https://github.com/BharathKumarReddy2103/Shell-Scripting-For-DevOps) 🖥️  
+- 🔹 [Shell Scripting Repository](https://github.com/BharathKumarReddy2103/Shell-Scripting-For-DevOps) 🖥️
+  
 - 🔹 [Python for DevOps Repository](https://github.com/BharathKumarReddy2103/Python-for-DevOps) 🐍  
 
 💡 **I welcome collaborations** If you're interested in **DevOps, Cloud, or MLOps**, let's build something amazing together!  
@@ -66,20 +75,25 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 🚀 Currently diving deep into:
 
 - 🤖 **MLOps:** Model deployment, automation, and monitoring
-- 🤖 **AIOps:** AI-driven operations for intelligent monitoring and issue resolution  
+  
+- 🤖 **AIOps:** AI-driven operations for intelligent monitoring and issue resolution
+  
 - ☁️ **AWS Solution Architect Path** to design scalable cloud solutions  
 
 ---
 
 ## 📢 **Let's Connect**  
 
-💼 **Open to:** DevOps, DataOps, and Cloud Engineering opportunities worldwide  
+💼 **Open to:** DevOps, DataOps, and Cloud Engineering opportunities worldwide 
+
 💡 **Looking for:** Open Source Collaborations, Networking, and Knowledge Sharing  
 
 📩 **Reach out to me:**  
 
-- 🔗 **LinkedIn:** (www.linkedin.com/in/bharath-kumar-reddy2103)  
-- 💻 **GitHub:** (https://github.com/BharathKumarReddy2103)  
+- 🔗 **LinkedIn:** (www.linkedin.com/in/bharath-kumar-reddy2103)
+  
+- 💻 **GitHub:** (https://github.com/BharathKumarReddy2103)
+  
 - 📝 **Medium Blog:** (https://medium.com/@nbkumar2103)  
 
 🚀 **Follow me on GitHub** and let's innovate together 🎯  
