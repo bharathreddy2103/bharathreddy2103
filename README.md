@@ -82,7 +82,7 @@ I actively contribute to **DevOps, Cloud, and Automation** projects.
 - 💻 **GitHub:** (https://github.com/BharathKumarReddy2103)  
 - 📝 **Medium Blog:** (https://medium.com/@nbkumar2103)  
 
-🚀 **Follow me on GitHub** and let's innovate together! 🎯  
+🚀 **Follow me on GitHub** and let's innovate together 🎯  
 
 ## GitHub Stats
 
