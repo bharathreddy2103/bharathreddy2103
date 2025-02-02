@@ -1,100 +1,88 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=bharathreddy2103&color=blue)
 
-# 👋 Hi, I'm Bharath Kumar Reddy  
+# 👋 Hi, I'm Bharath Kumar Reddy | **Senior DevOps & DataOps Engineer**  
 
-🚀 **Senior DevOps & DataOps Engineer** | **MLOps & AIOps Enthusiast**  
+🚀 **Bridging DevOps & DataOps with Cloud, Automation & Observability**  
 
-Welcome to my GitHub profile. I specialize in designing, automating, and scaling infrastructure and CI/CD pipelines for modern cloud-native applications. My passion lies in 
-contributing to open-source projects and sharing knowledge to empower the DevOps community.
-
----
-
-## 💡 **About Me**  
-
-- 🌟 **DevOps Expertise**: Streamlining workflows with tools like Jenkins, GitLab CI/CD, and GitHub Actions.
-  
-- 🛠️ **Infrastructure as Code**: Proficient in Terraform, Ansible, and GitOps tools like Argo CD.
-
-- 🚀 **Containerization & Orchestration**: Extensive experience with Docker and Kubernetes.
-
-- 🐧 **Linux & Scripting**: Skilled in Linux system administration, Bash scripting, and Python automation.
-
-- 🌐 **Cloud Platforms**: Hands-on experience with AWS and Azure services.
-
-- 💡 **AIOps & MLOps Enthusiast**: Exploring the intersection of AI, machine learning, and operations.  
+🔹 Passionate about **DevOps, Cloud, and Open Source Contributions**  
+🔹 Exploring **MLOps & AIOps** to drive the future of intelligent automation  
+🔹 Sharing knowledge through **GitHub, LinkedIn, and Technical Blogs**  
 
 ---
 
-## 🌟 **What You'll Find Here**  
+## 🔧 Tech Stack & Expertise  
 
-### **Featured Repositories**  
+### ⚙️ **DevOps & Automation**  
 
-- https://github.com/bharathreddy2103/devops-roadmap-2025
+🔹 **CI/CD:** Jenkins 🛠️ | GitLab CI/CD 🏗️ | GitHub Actions 🚀  
+🔹 **Containerization & Orchestration:** Docker 🐳 | Kubernetes ☸️ | ArgoCD 🔄  
+🔹 **Configuration Management:** Ansible ⚡  
+🔹 **Infrastructure as Code (IaC):** Terraform 🌍  
+🔹 **Scripting & Automation:** Bash 🖥️ | Python 🐍  
 
-- https://github.com/bharathreddy2103/DevOps-Interview-Questions-Answers
+### ☁️ **Cloud & Infrastructure** 
 
-- https://github.com/bharathreddy2103/Terraform
+🔹 **AWS Cloud:** EC2 🖥️ | S3 📦 | RDS 🛢️ | Lambda ⚡ | EKS ☸️ | VPC 🌐 | IAM 🔑 | Route 53 | CloudWatch | ECR | ELB | EMR
 
-- https://github.com/bharathreddy2103/Azure-Zero-To-Hero.git
+🔹 **Azure Cloud:** Azure DevOps 🚀 | AKS ☸️ | Virtual Machines 🏗️ | VNet 🌍 | Azure Storage | Azure Entra ID | Azure Functions | Azure DNS | Azure Monitor | ACR
 
-### **Learning Resources**  
+### 📊 **Observability & Monitoring**  
 
-- **DevOps**: Notes for Terraform, Docker, Kubernetes, Git, Linux, Jenkins, GitLab CI/CD, Ansible, AWS, Azure.
+🔹 **Metrics & Logging:** Prometheus 📈 | Grafana 📊 | ELK/EFK Stack 📑  
 
-- **Automation Scripts**: Python and Bash scripts for automating repetitive tasks.  
+🔹 **Distributed Tracing:** Jaeger 🔍  
 
----
+### ⚡ **Version Control & Linux Administration**  
 
-## 🛠️ **Technical Skills**  
+🔹 **Git & GitHub:** 📝 (Open Source Contributions & Projects)  
 
-| **Category**           | **Technologies**                                                                  |
-|-------------------------|-----------------------------------------------------------------------------------|
-| **DevOps Tools**        | Jenkins, GitLab CI/CD, GitHub Actions, Argo CD, Chef, Ansible                    |
-| **Cloud Platforms**     | AWS, Azure                                                                       |
-| **Containerization**    | Docker, Kubernetes                                                               |
-| **IaC & GitOps**        | Terraform, Argo CD                                                               |
-| **Scripting**           | Bash, Python                                                                     |
-| **Monitoring**          | Prometheus, Grafana, ELK/EFK Stack, Jaeger                                                  |
-| **Version Control**     | Git, GitHub, GitLab                                                                      |
-| **Operating Systems**   | Linux (Ubuntu, Amazon Linux, RHEL), Windows                                               |
+🔹 **Linux OS:** 🐧 Shell Scripting | System Administration  
 
 ---
 
-## 🤝 **Open Source Contributions**  
+## 🏆 **Open Source Contributions & GitHub Projects**  
 
-I'm eager to collaborate on open-source projects in:  
+I actively contribute to **DevOps, Cloud, and Automation** projects.  
 
-- DevOps automation and Infrastructure as Code.
-  
-- Building reusable CI/CD pipelines and Helm charts.
-  
-- MLOps and AIOps tools and frameworks.  
+🚀 Check out my **GitHub Repositories**:  
 
-If you're working on an exciting project, feel free to reach out for collaboration.
+📌 **DevOps & Cloud**  
 
----
+- 🔹 [Terraform Repository](https://github.com/bharathreddy2103/Terraform) 🌍  
+- 🔹 [Kubernetes Repository](https://github.com/BharathKumarReddy2103/Kubernetes) ☸️  
+- 🔹 [Azure Repository](https://github.com/BharathKumarReddy2103/Azure-Zero-To-Hero) 🚀  
 
-## 📚 **Learning & Growth**  
+📌 **Scripting & Automation**  
 
-🌱 Currently exploring **MLOps**, **AIOps**.  
+- 🔹 [Shell Scripting Repository](https://github.com/your-github-username/Shell-Scripting) 🖥️  
+- 🔹 [Python for DevOps Repository](https://github.com/your-github-username/Python-For-DevOps) 🐍  
 
-📖 Sharing my journey through blogs and tutorials on [Medium](https://medium.com/@nbkumar2103).  
-
-💡 Actively engaging with the DevOps community on [LinkedIn](https://www.linkedin.com/in/bharath-kumar-reddy2103/).  
+💡 **I welcome collaborations!** If you're interested in **DevOps, Cloud, or MLOps**, let's build something amazing together!  
 
 ---
 
-## 🔥 **Let’s Connect**  
+## 📚 **Learning & Future Goals**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharath--Kumar--Reddy-blue?logo=linkedin)](https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
+🚀 Currently diving deep into:
 
-[![Medium](https://img.shields.io/badge/Medium-Bharath--Kumar--Reddy-black?logo=medium)](https://medium.com/@nbkumar2103)
-
-**Email:** nbkumar2103@gmail.com
+- 🤖 **MLOps:** Model deployment, automation, and monitoring
+- 🤖 **AIOps:** AI-driven operations for intelligent monitoring and issue resolution  
+- ☁️ **AWS Solution Architect Path** to design scalable cloud solutions  
 
 ---
 
-⭐ **If you find my work helpful, please consider starring my repositories and following my profile**
+## 📢 **Let's Connect!**  
+
+💼 **Open to:** DevOps, DataOps, and Cloud Engineering opportunities worldwide  
+💡 **Looking for:** Open Source Collaborations, Networking, and Knowledge Sharing  
+
+📩 **Reach out to me:**  
+
+- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://img.shields.io/badge/LinkedIn-Bharath--Kumar--Reddy-blue?logo=linkedin)](https://www.linkedin.com/in/bharath-kumar-reddy2103/)  
+- 💻 **GitHub:** [github.com/your-github-username](https://github.com/BharathKumarReddy2103)  
+- 📝 **Medium Blog:** [medium.com/@your-profile](https://img.shields.io/badge/Medium-Bharath--Kumar--Reddy-black?logo=medium)](https://medium.com/@nbkumar2103)  
+
+🚀 **Follow me on GitHub** and let's innovate together! 🎯  
 
 ## GitHub Stats
 
